@@ -1,0 +1,3 @@
+[submodule "gibberish"]
+	path = gibberish
+	url = https://github.com/greghaskins/gibberish
